@@ -1,0 +1,99 @@
+2026-01-05 10:04:55.117 [main] INFO  TestPackage.TC_001_Login_Functionality - Started File loading
+2026-01-05 10:04:55.140 [main] INFO  TestPackage.TC_001_Login_Functionality - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:04:58.382 [main] INFO  TestPackage.TC_001_Login_Functionality - Browser successfully launched
+2026-01-05 10:05:03.149 [main] INFO  TestPackage.TC_001_Login_Functionality - Succefully opened application
+2026-01-05 10:05:05.074 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:05:07.676 [main] INFO  TestPackage.TC_001_Login_Functionality - Actual Text : Dashboard
+2026-01-05 10:05:07.677 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:24:23.768 [main] INFO  TestPackage.TC_001_Login_Functionality - Started File loading
+2026-01-05 10:24:23.772 [main] INFO  TestPackage.TC_001_Login_Functionality - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:24:26.491 [main] INFO  TestPackage.TC_001_Login_Functionality - Browser successfully launched
+2026-01-05 10:24:43.705 [main] INFO  TestPackage.TC_001_Login_Functionality - Succefully opened application
+2026-01-05 10:24:45.499 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:24:47.813 [main] INFO  TestPackage.TC_001_Login_Functionality - Actual Text : Dashboard
+2026-01-05 10:24:47.813 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:25:57.083 [main] INFO  TestPackage.TC_001_Login_Functionality - Started File loading
+2026-01-05 10:25:57.088 [main] INFO  TestPackage.TC_001_Login_Functionality - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:25:59.262 [main] INFO  TestPackage.TC_001_Login_Functionality - Browser successfully launched
+2026-01-05 10:26:37.357 [main] INFO  TestPackage.TC_001_Login_Functionality - Succefully opened application
+2026-01-05 10:26:39.379 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:26:41.664 [main] INFO  TestPackage.TC_001_Login_Functionality - Actual Text : Dashboard
+2026-01-05 10:26:41.665 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:40:55.715 [main] INFO  TestPackage.TC_001_Login_Functionality - Started File loading
+2026-01-05 10:40:55.720 [main] INFO  TestPackage.TC_001_Login_Functionality - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:40:58.135 [main] INFO  TestPackage.TC_001_Login_Functionality - Browser successfully launched
+2026-01-05 10:43:21.406 [main] INFO  TestPackage.TC_001_Login_Functionality - Succefully opened application
+2026-01-05 10:46:20.218 [main] INFO  TestPackage.TC_001_Login_Functionality - Started File loading
+2026-01-05 10:46:20.224 [main] INFO  TestPackage.TC_001_Login_Functionality - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:46:23.466 [main] INFO  TestPackage.TC_001_Login_Functionality - Browser successfully launched
+2026-01-05 10:47:19.358 [main] INFO  TestPackage.TC_001_Login_Functionality - Succefully opened application
+2026-01-05 10:47:27.608 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:47:40.229 [main] INFO  TestPackage.TC_001_Login_Functionality - Actual Text : Dashboard
+2026-01-05 10:47:40.229 [main] INFO  TestPackage.TC_001_Login_Functionality - Successfully logged into application
+2026-01-05 10:47:41.403 [main] INFO  TestPackage.TC_002_Employee_Registration - Started File loading
+2026-01-05 10:47:41.404 [main] INFO  TestPackage.TC_002_Employee_Registration - Completed loading the config file now the data was present in prop reference 
+2026-01-05 10:47:43.241 [main] INFO  TestPackage.TC_002_Employee_Registration - Browser successfully launched
+2026-01-05 10:48:04.410 [main] INFO  TestPackage.TC_002_Employee_Registration - Succefully opened application
+2026-01-05 10:48:42.293 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:48:42.506 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:48:42.710 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:48:42.889 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:48:43.051 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:48:43.210 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:49:03.388 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:49:03.548 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:49:03.710 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:49:03.897 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:49:04.063 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:49:04.221 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:49:27.089 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:49:27.240 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:49:27.418 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:49:27.580 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:49:27.743 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:49:27.909 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:49:48.728 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:49:48.954 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:49:49.133 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:49:49.296 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:49:49.435 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:49:49.588 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:50:14.207 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:50:14.378 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:50:14.544 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:50:14.720 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:50:14.888 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:50:15.066 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:50:15.766 [main] INFO  TestPackage.TC_002_Employee_Registration - Clicked Submit Button
+2026-01-05 10:50:43.380 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:50:43.538 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:50:43.709 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:50:43.901 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:50:44.089 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:50:44.286 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:50:57.098 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:50:57.246 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:50:57.395 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:50:57.566 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:50:57.712 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:50:57.863 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:51:06.933 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:51:07.099 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:51:07.240 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:51:07.410 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:51:07.566 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:51:07.717 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:51:07.869 [main] INFO  TestPackage.TC_002_Employee_Registration - Clicked Submit Button
+2026-01-05 10:51:17.820 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:51:17.973 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:51:18.121 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:51:18.284 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:51:18.434 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:51:18.597 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:51:37.121 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered First Name
+2026-01-05 10:51:37.297 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Middle Name
+2026-01-05 10:51:37.460 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Last Name
+2026-01-05 10:51:37.620 [main] INFO  TestPackage.TC_002_Employee_Registration - Enter User Name
+2026-01-05 10:51:37.777 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Password
+2026-01-05 10:51:37.931 [main] INFO  TestPackage.TC_002_Employee_Registration - Entered Confirm Passowrd
+2026-01-05 10:51:38.547 [main] INFO  TestPackage.TC_002_Employee_Registration - Clicked Submit Button
